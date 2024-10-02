@@ -1,4 +1,5 @@
-title: The School of Commonwealths data science course 
-description: Teach data science and enhance students' capacity to think critically and cooperate globally within the School of Commonwealths
+title: Szkoła Rzeczypospolitych: kurs z metod numerycznych część 1
+description: Cele zajęć jest nauczenie się znajdowania rozwiązań problemów
+zdefiniowanych modelem matematycznym za pomocą modelu obliczeniowego w postaci programu komputerowego.
 show_downloads: true
 theme: jekyll-theme-architect
